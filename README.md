@@ -6,3 +6,5 @@
 ### [**Sprint 02.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint02/Tasks.md) Class design. Inheritance, Polymorphism
 
 ### [**Sprint 03.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint03/Tasks.md) Delegates, events
+
+### [**Sprint 04.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint04/Tasks.md) Interfaces, Generics
