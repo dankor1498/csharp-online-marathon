@@ -10,3 +10,5 @@
 ### [**Sprint 04.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint04/Tasks.md) Interfaces, Generics
 
 ### [**Sprint 05.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint05/Tasks.md) Collections
+
+### [**Sprint 06.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint06/Tasks.md) IEnumerable, IEnumerator interfaces
