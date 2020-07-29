@@ -14,3 +14,5 @@
 ### [**Sprint 06.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint06/Tasks.md) IEnumerable, IEnumerator interfaces
 
 ### [**Sprint 07.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint07/Tasks.md) LINQ to Objects. Serialization
+
+### [**Sprint 08.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint08/Tasks.md) Tasks. Multithreading
