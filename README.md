@@ -18,3 +18,5 @@
 ### [**Sprint 08.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint08/Tasks.md) Tasks. Multithreading
 
 ### [**Sprint 09.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint09/Tasks.md) Asynchronous programming
+
+### [**Sprint 10.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint10/Tasks.md) SOLID principles
