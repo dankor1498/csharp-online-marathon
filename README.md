@@ -20,3 +20,5 @@
 ### [**Sprint 09.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint09/Tasks.md) Asynchronous programming
 
 ### [**Sprint 10.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint10/Tasks.md) SOLID principles
+
+### [**Sprint 11.**](https://github.com/dankor1498/csharp-online-marathon/blob/master/Sprint11/Tasks.md) Tasks. Reflection
